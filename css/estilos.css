@@ -39,6 +39,10 @@ body {
 	color: white;
 	background-color: #ED6A5A;
 }
+.c6 {
+    color:black;
+    background-color: chartreuse;
+}
 
 .container {
 	display: -webkit-flex;
@@ -46,7 +50,7 @@ body {
 	-webkit-flex-flow: row wrap;
 	flex-flow: row wrap;
 }
-.c1, c2, .c3, .c4, .c5{
+.c1, c2, .c3, .c4, .c5, .c6{
     width:100%;
 }
 @media(min-width:600px){
